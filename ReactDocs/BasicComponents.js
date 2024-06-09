@@ -1,3 +1,5 @@
+//Components are exactly the same as functions.
+//They get some additional features.
 function MyButton() {
     return (
       <button>I'm a button</button>
